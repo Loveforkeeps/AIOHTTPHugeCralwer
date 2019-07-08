@@ -66,7 +66,7 @@ python wgetaiohttp.py -f 100000url.txt -c 10000
 
 ## Running  screenshot:
 
-- ![carbon-2](README.assets/carbon-2.png)
+- ![carbon-2](/README.assets/carbon-2.png)
 
 
 
